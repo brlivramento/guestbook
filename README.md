@@ -1,7 +1,8 @@
 # Guestbook
 
-Visitor login with a few basic fields and export to .xls file
-A basic project created in 2018 for the sole purpose of helping a colleague, which I decided to publish
+Visitor login with a few basic fields and export to .xls file.
+
+A basic project created in 2018 for the sole purpose of helping, which I decided to publish
     
 ## Run Locally
 
